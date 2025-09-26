@@ -1,0 +1,7 @@
+google-adk
+google-generativeai
+fastapi
+uvicorn
+pydantic
+PyPDF2
+pdfplumber
